@@ -7,7 +7,7 @@ Personal Project
 
 ### Date Completed:
 
-Feb. 25 2024
+February 25 2024
 
 ### Skills:
 
