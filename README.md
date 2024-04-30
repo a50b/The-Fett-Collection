@@ -1,7 +1,6 @@
 # The Fett Collection
 
-Discovery Hub is a full-stack web application designed to cultivate a community of curiosity and learning. Using HTML, CSS, React, and the backend cloud service Supabase, this platform enables users to share and discover interesting facts. On Discovery Hub, facts can be sorted by categories, allowing for easy navigation, and users can vote on the accuracy of each fact to ensure reliability. This project not only tested my full-stack development skills but also created a dynamic space for knowledge exchange and community building.
-
+The Fett Collection is a responsive web design showcasing the photography of the feared bounty hunter, Boba Fett. (Created with HTML/CSS, Javascript)
 ### Client:
 
 Personal Project
